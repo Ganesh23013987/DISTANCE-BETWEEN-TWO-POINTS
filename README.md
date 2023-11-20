@@ -27,7 +27,8 @@ print(round(dis,2))
 ```
   
 ### OUTPUT:
-![output<![Alt text](<distance between two points.png>)>]
+<img width="602" alt="distance between two points" src="https://github.com/Ganesh23013987/DISTANCE-BETWEEN-TWO-POINTS/assets/147473768/7964b548-b843-4278-b0b1-bbac62f9d40e">
+
 
 ### RESULT:
 Then, the program is successfully executed.
