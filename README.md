@@ -8,7 +8,7 @@ This line imports the math module, which provides mathematical functions, includ
 ### Step 2: 
 This line assigns values to four variables: x1, x2, y1, and y2. These variables represent the coordinates of two points in a 2D plane.
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula formula.JPG
 ### Step 4: 
 This line prints the calculated distance, rounded to two decimal places, using the round function.
 ### Step 5: 
