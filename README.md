@@ -8,9 +8,8 @@ This line imports the math module, which provides mathematical functions, includ
 ### Step 2: 
 This line assigns values to four variables: x1, x2, y1, and y2. These variables represent the coordinates of two points in a 2D plane.
 ### Step 3: 
-Substitute the values in the distance formula
 ![image](https://github.com/Ganesh23013987/DISTANCE-BETWEEN-TWO-POINTS/assets/147473768/61265d74-654a-4c6e-b16c-8a2f562ec615)
-
+Substitute the values in the distance formula
 ### Step 4: 
 This line prints the calculated distance, rounded to two decimal places, using the round function.
 ### Step 5: 
